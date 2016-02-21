@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/Applications/XAMPP/htdocs/advancedtest/common/models/LoginForm.php</file>
+            <file>file:/Applications/XAMPP/htdocs/advancedtest/backend/web/index.php</file>
+            <file>file:/Applications/XAMPP/htdocs/advancedtest/backend/views/site/index.php</file>
+            <file>file:/Applications/XAMPP/htdocs/advancedtest/backend/views/layouts/main.php</file>
+            <file>file:/Applications/XAMPP/htdocs/advancedtest/frontend/web/index.php</file>
+            <file>file:/Applications/XAMPP/htdocs/advancedtest/common/config/main.php</file>
+            <file>file:/Applications/XAMPP/htdocs/advancedtest/frontend/controllers/SiteController.php</file>
+            <file>file:/Applications/XAMPP/htdocs/advancedtest/backend/views/site/login.php</file>
+            <file>file:/Applications/XAMPP/htdocs/advancedtest/backend/views/student/create.php</file>
+            <file>file:/Applications/XAMPP/htdocs/advancedtest/frontend/models/SignupForm.php</file>
+            <file>file:/Applications/XAMPP/htdocs/advancedtest/common/models/User.php</file>
+            <file>file:/Applications/XAMPP/htdocs/advancedtest/backend/views/student/_form.php</file>
+            <file>file:/Applications/XAMPP/htdocs/advancedtest/backend/views/student/update.php</file>
+            <file>file:/Applications/XAMPP/htdocs/advancedtest/backend/views/student/index.php</file>
+            <file>file:/Applications/XAMPP/htdocs/advancedtest/common/models/Student.php</file>
+            <file>file:/Applications/XAMPP/htdocs/advancedtest/frontend/views/site/signup.php</file>
+            <file>file:/Applications/XAMPP/htdocs/advancedtest/backend/models/StudentCreate.php</file>
+            <file>file:/Applications/XAMPP/htdocs/advancedtest/backend/controllers/StudentController.php</file>
+            <file>file:/Applications/XAMPP/htdocs/advancedtest/backend/views/student/view.php</file>
+            <file>file:/Applications/XAMPP/htdocs/advancedtest/backend/controllers/SiteController.php</file>
+        </group>
+    </open-files>
+</project-private>
