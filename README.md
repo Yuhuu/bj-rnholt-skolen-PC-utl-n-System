@@ -4,6 +4,8 @@ I want to build a website for a PC rental shop. The shop rents PC, laptop to stu
 Each rental item can be rented. 
 A rental item is beng rented, we say it is not available. An availabe rental item is not currently rented.
 
+PHP requirement: Required by encrypt and decrypt methods.
+
 
 DIRECTORY STRUCTURE
 -------------------
